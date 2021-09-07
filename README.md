@@ -73,11 +73,11 @@ This README would normally document whatever steps are necessary to get your app
 ### guidelines ###
 
 ### contributers ###
-
-* 廖威麒
-* 林和謙
-* 梁瑞翔
-* 陳威宇
+  
+- [Ricky Liao / 廖威騏]()
+- [Jonathan Lin / 林和謙]()
+- [William Chen / 陳威宇](https://github.com/weiyutp6)
+- [Rui Xiang Liang / 梁瑞翔]()
 
 ### references ###
 * Ke, C.-H. (2019, December 8). 每日台股大盤收盤指數 - Java 實作.Retrieved from https://medium.com/phelps-laboratory/stockvaluebydate-30c28bcf9a0f
