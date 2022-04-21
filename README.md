@@ -33,9 +33,6 @@ This README would normally document whatever steps are necessary to get your app
 
 ### guidelines ###
 
-* 這邊寫你程式的I/O哦~
-* 格式: input:<class name>{<parameters>} output:<class name>{<parameters>}
-
 # self picked topic: stock crawling app #
 *(optional)
 ### Usage ###
